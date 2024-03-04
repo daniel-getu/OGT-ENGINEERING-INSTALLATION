@@ -1,0 +1,9 @@
+@media (min-width: 992px) {
+  .navbar-nav .drop-menu-item {
+    margin-right: 20px; /* Adjust the value as per your design */
+  }
+}
+/* Add this CSS to your stylesheet */
+
+
+/*# sourceMappingURL=maps/custom.css.map */
